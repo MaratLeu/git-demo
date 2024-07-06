@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>image/zubovich.png</file>
+        <file>image/usachonok.png</file>
+        <file>image/nikita.png</file>
+        <file>image/cursor_32.png</file>
+        <file>image/heart.png</file>
+        <file>image/nikita_1.png</file>
+        <file>image/nikita_2.png</file>
+        <file>image/grob.png</file>
+        <file>image/zubovich_2.png</file>
+        <file>image/zubovich_3.png</file>
+        <file>image/usachonok_2.png</file>
+        <file>image/usachonok_3.png</file>
+    </qresource>
+</RCC>
